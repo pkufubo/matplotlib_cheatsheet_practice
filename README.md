@@ -6,6 +6,6 @@ This work is for https://matplotlib.org/cheatsheets/. This practice is not only 
 
 # Point Here! 指路！
 
-[practice.ipynb](practice.ipynb)
+Point [practice.ipynb](practice.ipynb) to see my note!
 
-pkufubo@pku.edu.cn
+点击 [practice.ipynb](practice.ipynb) 看我的笔记!
